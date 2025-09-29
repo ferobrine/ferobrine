@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ferobrine
 - 👀 I’m a student of computer science and business studies
-- 🌱 I’m currently learning java and ruby
 - 📫 How to reach me : fferobrine@gmail.com
 
 
